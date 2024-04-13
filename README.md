@@ -5,6 +5,7 @@ Fonctionne sur Windows avec mingw d'installé
 Testé en utilisant VSCode : à partir du dossier principal :
 
 >>> mingw32-make.exe main
+
 >>> bin/main.exe
 
 Il est possible de changer certains paramètres dans le code source (src/main.c):
