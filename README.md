@@ -1,5 +1,8 @@
 # JDLV
 Jeu de la Vie en C (commencé le 22/01/2024) :
+
+Inspiré par cette vidéo : https://youtu.be/S-W0NX97DB0
+
 Fonctionne sur Windows avec mingw d'installé
 
 Testé en utilisant VSCode : à partir du dossier principal :
