@@ -37,3 +37,4 @@ add_structure(map_tab, squares_to_add, &last_square_to_add, structure_<nom_de_la
 "0" correspond à une case vide et "1" correspond à une case active.
 Ce code est à ajouter après la ligne `SDL_Init(SDL_INIT_VIDEO);`
 
+![Image du projet](https://github.com/MAMGA62/JDLV/blob/main/JDLV_image.png?raw=true)
